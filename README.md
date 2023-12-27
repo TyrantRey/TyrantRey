@@ -7,7 +7,7 @@ Web Dev, Server Admin
 An IT student with a unique skill set encompassing server administration, fullstack development, and IoT expertise.
 
 * 🌍  I'm based in Taiwan and Hongkong
-* 🖥️  See my portfolio at [Homepage](http://homepage.tyrantrex.icu/)
+* 🖥️  See my server status at [Server status](http://status.tyrantrex.icu/)
 * ✉️  You can contact me at [63731417matthew@gmail.com](mailto:63731417matthew@gmail.com)
 * 🚀  I'm currently working on [Feng Chia University iSchool Project Management System (PMS)](http://github.com/LostALice/FCU-PMS)
 * 🧠  I'm learning Vue, React, Flutter
