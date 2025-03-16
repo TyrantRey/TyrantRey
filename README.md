@@ -7,7 +7,7 @@ Web Dev, Server Admin
 An IT student with a unique skill set encompassing server administration, fullstack development, and IoT expertise.
 
 * 🌍  I'm based in Taiwan and Hongkong
-* 🖥️  See my server status at [Server status](https://dashboard.tyrantrex.icu/)
+* 🖥️  See my server status at [Server status](https://dashboard.tyrantrex.icu/d/IfgdXjtnk/)
 * ✉️  You can contact me at [63731417matthew@gmail.com](mailto:63731417matthew@gmail.com)
 * 🚀  I'm currently working on [Feng Chia University Economics AI Teacher Assistant (Econ_AI_TA)](http://github.com/LostALice/Econ_AI_TA)
 * 🧠  I'm learning Vue, React, Flutter
